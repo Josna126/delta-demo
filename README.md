@@ -1,4 +1,8 @@
 # delta-demo
 This is a demo repository created for the Git and Github classes.
 
-Hello How r u
+# Teacher 
+Shradha Khapra 
+
+# Student 
+Josna Fernandes (delta-student)
